@@ -4,7 +4,7 @@
 
 ## How to play online
 
-Go to [satellite-game.com](http://satellite-game.com)
+Go to [satellite-game.com](http://satellite.io)
 
 
 ## How to play locally.
